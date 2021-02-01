@@ -1,20 +1,21 @@
+
 # Getting Started with Lab
 
 1. Once the environment is provisioned, a virtual machine (JumpVM) and lab guide will get loaded in your browser. Use this virtual machine throughout the workshop to perform the the lab.
-1. To get the lab environment details, you can select **Lab Environment** tab. Additionally, the credentials will also be emailed to your email address provided at registration.
+1. To get the lab environment details, you can select **Environment Details** tab. Additionally, the credentials will also be emailed to your email address provided at registration.
 
-   ![](images/14.png "Lab Environment")
+   ![](images/v2/v2-1.png)
  
     > You will see Suffix/DeploymentID value on **Lab Environment** tab, use it whereever you see SUFFIX or DeploymentID in lab steps.
  
-1. You can also open the Lab Guide on Seperate full window by selecting the **Arrow** icon in upper right corner.
+1. You can also open the Lab Guide on Seperate full window by selecting the **Split Window** icon in bottom right corner.
 
-   ![](images/15.png "Lab Guide")
+   ![](images/v2/v2-2.png)
  
 ## Login to Azure Portal
 1. In the JumpVM, click on Azure portal shortcut of Microsoft Edge browser which is created on desktop.
 
-   ![azure portal.](images/16.png)
+   ![](images/v2/v2-3.png)
    
 1. When you click on Azure portal, edge browser welcome screen will come up, select **Get started**.
 
@@ -57,4 +58,3 @@
    ![](images/24.png "Resource groups")
    
 1. Now, click on the **Next** from lower right corner to move on the next page.
-
